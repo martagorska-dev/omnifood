@@ -37,7 +37,7 @@
    
 
 ## Acknowledgements
-This project was based on [this tutorial](https://www.udemy.com/course/the-complete-javascript-course/).
+This project was based on [this tutorial](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/).
 
 
 ## Contact
